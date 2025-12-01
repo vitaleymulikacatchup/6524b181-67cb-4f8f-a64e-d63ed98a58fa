@@ -132,7 +132,7 @@ export default function LandingPage() {
               icon: Flame,
               title: "0-100 kmh",
               value: "1.8 sec",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1764591158387-ccmy550n.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1764591620898-gshxkf32.jpg",
               imageAlt: "Acceleration performance"
             },
             {
@@ -148,7 +148,7 @@ export default function LandingPage() {
               icon: Droplet,
               title: "Fuel Efficiency",
               value: "8.2 MPG",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1764591158387-ccmy550n.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1764591620898-gshxkf32.jpg",
               imageAlt: "Fuel consumption"
             }
           ]}
